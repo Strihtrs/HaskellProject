@@ -111,7 +111,8 @@ program (Arguments r t i)
 
 -- Function defines command arguments
 -- -r - Program takes input regular expression, stores it to internal representation and then prints it to standard output
--- -t - Program takes input regular expression, stores it to internal representation, transforms it to finite automata and then prints the automata to output
+-- -t - Program takes input regular expression, stores it to internal representation, 
+--      transforms it to finite automata and then prints the automata to output
 -- INPUT - string which specifies path to input file. Default value is empty string
 defineArguments :: Parser Arguments
 defineArguments = Arguments

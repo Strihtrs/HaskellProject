@@ -1,8 +1,8 @@
-## rv-2-rka
-## Filip Kalous
-## xkalou03
+rv-2-rka <br>
+Filip Kalous <br>
+xkalou03 <br>
 
-### Použití
+## Použití
 
 ### Program je možné spustit s těmito parametry:
 +	*-r* 
